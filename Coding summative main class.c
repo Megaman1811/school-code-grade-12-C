@@ -1,5 +1,5 @@
 /*
- * Author: Cristian Cerroni
+ * Author: Megaman1811
  * Title: Game
  * Creating a text based story with if and else if statements
  * Created on November 25, 2015, 12:36 PM

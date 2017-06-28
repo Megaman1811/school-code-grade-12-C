@@ -23,7 +23,7 @@ printf("More story\n");
 printf("Pick 1 or 2\n");
 scanf("%d",&opt1);
 
-if (opt1 == 1)					//this is the if statement that contains the entire program. if 1, it loads the first branch
+if (opt1 == 1)		//this is the if statement that contains the entire program. if 1, it loads the first branch
 {
     //Branch 1
     printf("Branch 1\n");
@@ -257,7 +257,7 @@ else if (opt1 == 2)
 	}
 }
 
-else															//Simple error check at main loop in case anything but 1 or 2 is entered
+else			//Simple error check at main loop in case anything but 1 or 2 is entered
 {
     printf("ERROR. PLEASE PICK PROPER NUMBER");
 }
